@@ -1,0 +1,71 @@
+		JavaScript
+* What is a program?
+1. A Set of instruction that given to the computer is called a program
+
+2. JavaScript is a programming language.
+it is second the highly paid programming language
+
+* What is Syntax?
+1. The way that how do you write the code. 
+
+languages
+1. high level language
+2. low level language
+3. machine language
+
+
+
+Translater
+1. assembler -->
+2. complier --> whole program execute
+3. interpreter --> one by one line exucute
+error finding and debugging.
+
+* JavaScript is a high level interpreter programming language.
+
+*Javascript ka code translate interpreter krta he
+
+*JavaScript Names
+1.JS,COMMON JS,VANILLA JS,BASIC JS,
+ ES5--(Ecma Script 5)
+
+*Areas
+Frontend:   Reactjs,angularjs,vuejs
+Backend:    nodejs  Stack developer
+
+Mern Stack Developer..
+Mongodb  expressjs  nodejs  st
+
+Mobile App: React Nativejs
+Blockchain: Solidarity.js
+AI:         tensorflow
+
+--------------------------------------------------
+
+* There are two way to apply Js
+1. Internal Js
+2. External Js
+
+Hamara code browser per V8 engine ki madad se execute
+
+Chapter alert..
+*alert
+1. alert() Builtin Function
+mean javascript ka banya huva
+
+2.document.write() Builtin Method
+mean . ke bad jo bhi builtin ho wo method he
+ html ki body ke bad show hoga
+
+3.Console.log() Builtin Method
+mean . ke bad jo bhi builtin ho wo method he
+ developer tool me console me
+---------------------------------------------------
+
+Chapter Variables and Strings
+
+*data-types
+mean var num = 10--(data and type--number);
+var is a js keyword to makes variable
+
+

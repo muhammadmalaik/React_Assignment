@@ -1,0 +1,41 @@
+Chapter Changing Case (21)...........
+
+var str = prompt("Enter some text");
+2 var numChars = str.length;
+3 for (var i = 0; i < numChars; i++) {
+4 if (str.slice(i, i + 2) === " ") {
+5 alert("No double spaces!");
+6 break;
+
+--> mean code (if (str.slice(i, i + 2) === " ") mean jo bhi find krana he us ki copy bane gi(str.slice(i, i + 2))
+
+Method indexof
+mean start me indexnumber batae ga kisi bhi word ka
+
+Method Lastindexof
+mean End me indexnumber batae ga kisi bhi word ka jo multiple ho
+
+Method replace("adnan",shahid)
+do parameters denge pehle me value denge doosre me is ki updated value denge
+-----------------------------------------------------------------
+Ch -- 24..
+Method ChartAt (indexnum)
+mean jese adnan 3indexnum (a aega)
+
+Method 
+1) startsWidth 
+mean ye alphabat ka first letter bataega ke kia he console me boolean value dega true , false.
+
+2) EndWidth
+mean ye alphabat ka end letter bataega ke kia he console me boolean value dega true , false.
+
+3)includes 
+mean ye alphabat ka multiple letter bataega ke kia he console me boolean value dega true , false.
+
+4)split () 
+("") --> her letter split alag ho jae ge
+(" ") --> do word alag hojae ge. 
+()
+mean usuage convert to array ke under value store hojae gi.
+
+*ArrayMethod (join)

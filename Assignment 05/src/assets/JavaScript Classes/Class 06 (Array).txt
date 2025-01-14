@@ -1,0 +1,47 @@
+Chapter 16 Array
+
+value ko set krwana alag he or call krwana alag he 
+==> arr [1] = "adnan" 0 empty
+==> arr [1] -- undefined
+
+Array Methods
+--> push
+push method me hum multiple value add krwa skte he lekin arr ke end me add hoga
+(Add data in the end of an array)
+
+--> unshift
+unshift method me hum multiple value add krwa skte he lekin arr ke start me add hoga
+(Add data in the Start of an array)
+
+--> pop 
+pop method me hum multiple value add krwa skte he lekin arr ke end me delele hoga
+(delete data in the end of an array)
+
+--> shift
+shift method me hum multiple value add krwa skte he lekin arr ke start me add hoga
+(add data in the end of an array)
+--> splice
+splice(indexnumber,elementcount,Add Number)
+splice(1,2)
+
+-->slice
+Slice () method (to copy array of element)
+
+
+
+-------------------------------------------------------------------
+Chapter loops
+
+definition --> (iteration of a process or repeatation of something is called loop) 
+
+==> Three Types of Loops
+1. for Loops
+2. While Loops
+3. Do while Loops
+
+for(initiallization;condition;increament/decreament){
+
+
+}
+
+

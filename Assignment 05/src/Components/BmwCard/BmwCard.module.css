@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+}
+
+.firstCard,.secondCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 400px;
+    width: 100%;
+}
+
+.Cardinner{
+    width: 30%;
+
+}
+
+.Cardimg{
+    width: 45%;
+}

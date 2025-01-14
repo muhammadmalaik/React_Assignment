@@ -1,0 +1,32 @@
+Class 02 
+Chapter (Variable and Strings)
+
+*What Variable?
+1. var key word a = "data == (num,string)"
+mean ==> var is a javascript key word for making variable
+
+*Concept of two Variable..
+
+==> Variable Declaration
+var age; ==> not a data
+
+==>Variable Declaration and initiallization
+var age; ==> enter a data
+
+
+[+] ==> Concadinate only plus.
+
+==> jab string or number ko - karaege to NaN aege
+
+---------------------------------------------
+
+..> Chapter legal and illegal
+
+==> text name123 legal
+==> text 123name legal
+
+..Camel Case
+example firstName
+
+..Snake Case
+example first_nam

@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    background-color: rgb(48, 47, 47);
+}
+.desc{
+    width:23%;
+}
+.desc h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: white;
+}
+.desc p{
+    color: rgb(236, 233, 233);
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 17px;
+}
+
+.descCard{
+    width: 70%;
+    height: 400px;
+    display: flex;
+    column-gap: 10px;
+
+}

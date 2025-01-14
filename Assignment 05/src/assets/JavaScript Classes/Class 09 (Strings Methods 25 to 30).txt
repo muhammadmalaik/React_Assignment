@@ -1,0 +1,11 @@
+Chapter 13
+
+
+Math --> Object
+--> round    12.4 ka next number (6)
+--> cell hamesha 5.9 ka next number (6)
+--> floor
+--> random
+
+
+--> parseint ka function decimal accept nhi krta

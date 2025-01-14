@@ -1,0 +1,24 @@
+Prompts(1argument,2argument)
+-------------------------------------------
+*Templetes Literals
+
+(``) --> Single Backtes
+(hello ${name})
+
+
+
+
+
+==> Comparision Operators
+== --> (sirf value Check krta he 2 == "2")
+=== --> (value or datatype Check krta he 
+(2 === "2")
+!a --> toggle
+
+*JavaScript is a CaseSensitive  
+
+*DataTypes
+1.string   2.Number  3.Boolean  4.Undefined   5.Null
+
+*JavaScript ke asi values jis ka answer false ata he?
+1. false  2.0  .3,"",''  4.null  5.undefined 

@@ -1,0 +1,12 @@
+Chapter 18 (For Loops)
+
+decreament --> bare se chote ki tarf
+
+
+
+Changing Case
+KARachi .tolowerCase()
+
+is se user jo bhi value jis tarah bhi de (Example --> kAraCHi)8:57 
+
+(Slice) ka method array ke ilawa dusre datatype per bhi istimal hota he

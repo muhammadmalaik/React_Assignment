@@ -1,0 +1,5 @@
+Chapter 31
+function --> new Date() mean ye system me jo current time la ker deta he;
+
+--> DAte Functions retuns and Object.
+

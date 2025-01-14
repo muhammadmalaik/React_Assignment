@@ -1,0 +1,37 @@
+chapter 13 testing Set of Conditions
+
+logical Operators
+1. && ==> And Operators     
+2. || ==> Or Operators
+
+1)left && right dono true hogi to program run hoga
+
+2)left || right me se ek true hogi to program run hoga
+
+Note...
+1)|| && agr hum dono used karen to pehle || used hogi
+
+2)&& value Compalsary hota he
+
+-------------------------------------------------------------------
+
+Chapter 14 if statatement Nested
+
+-------------------------------------------------------------------
+
+Cbapter 15 Array
+
+==> Array (Definitiom)..
+--> multipe value store in a single variable is called an array.
+
+-> Array denoted []. for variable used var num = [1,2,3,4,5,6]
+-> .lenght property he array ki jo sirf array per chale gi.
+-> index number 0 se start hota he [index number (0)]
+
+
+ 
+
+
+
+
+

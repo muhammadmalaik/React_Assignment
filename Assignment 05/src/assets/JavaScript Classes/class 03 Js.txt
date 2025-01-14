@@ -1,0 +1,42 @@
+Chapter No 5 to ?
+
+==>Modules %
+var 2 % 4
+
+ch 6
+==> Unfamillar Operaters
+
+==>Increament mean +1 add krna
+
+==>Decreament mean -1 subtract krna
+
+==>post and pre Concept..
+-- Post increament (num++)  [bad] {bad me update karega}
+-- Pre increament  (++num)  [pehle] {pehle update karega}
+
+==> Exercise..
+var a = 4; 5 - 7 -5 -6
+
+4 + 5 - 3 + 5
+
+3 + 4 + 4 - 2 + 3 - 4
+
+3 + 4 + 2 - 2 + 3 - 4 - 3 - 4 + 4 + 3 - 3 + 3
+------------------------------------------------------------------------------
+
+==> Prompts (Builtin Function)
+mean user se input lene ke lye
+prompts () -- parenthesis
+
+*Prompt --> by default only string leta he user se..
+
+--> bahaviour change prompt
+1. [+prompt]  
+2. Number   --> Builtin Constructer Function
+3. parseint --> Builtin Function
+
+
+
+
+
+

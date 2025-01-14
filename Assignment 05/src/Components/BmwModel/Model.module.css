@@ -1,0 +1,9 @@
+/* .main{
+} */
+.imgsec1,.imgsec3{
+    display: flex;
+    justify-content: space-between;
+}
+.imgsec2,.imgsec4{
+    display: flex;
+}
