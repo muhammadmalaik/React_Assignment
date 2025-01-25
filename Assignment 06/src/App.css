@@ -1,0 +1,360 @@
+/* .app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    padding: 20px;
+    max-width: 500px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .input-container input {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .input-container button {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .input-container button:hover {
+    background-color: #218838;
+  }
+  
+  .task-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+  }
+  
+  .task.completed {
+    text-decoration: line-through;
+    color: #888;
+  }
+  
+  .task button {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .task button:hover {
+    background-color: #c82333;
+  } */
+
+
+
+
+  /* App.css */
+  /* background: #f9f9f9; */
+
+
+
+/* 
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230819215933/Best-To-Do-List-Apps-in-2023.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .app {
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 480px;
+    padding: 24px;
+    box-sizing: border-box;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #4a90e2;
+  }
+  
+  .input-container {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .input-container input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+  
+  .input-container button {
+    padding: 8px 16px;
+    background: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+  }
+  
+  .input-container button:hover {
+    background: #357acb;
+  }
+  
+  .task-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    margin-bottom: 8px;
+    background: #f0f4f8;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+  }
+  
+  .task.completed {
+    text-decoration: line-through;
+    color: #888;
+  }
+  
+  .task:hover {
+    background: #e8ecf1;
+  }
+  
+  .task span {
+    flex: 1;
+    cursor: pointer;
+  }
+  
+  .task button {
+    margin-left: 8px;
+    padding: 4px 8px;
+    background: #e74c3c;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background 0.3s ease;
+  }
+  
+  .task button:hover {
+    background: #c0392b;
+  }
+  
+  .edit-container {
+    display: flex;
+    gap: 8px;
+    flex: 1;
+  }
+  
+  .edit-container input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+  
+  .edit-container button {
+    padding: 4px 8px;
+    background: #27ae60;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background 0.3s ease;
+  }
+  
+  .edit-container button:hover {
+    background: #1e8449;
+  }
+  
+  .edit-container button:last-child {
+    background: #95a5a6;
+  }
+  
+  .edit-container button:last-child:hover {
+    background: #7f8c8d;
+  }
+   */
+
+
+
+
+
+
+
+   body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230819215933/Best-To-Do-List-Apps-in-2023.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .app {
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 700px; /* Increased size */
+    padding: 82px; /* Increased padding */
+    box-sizing: border-box;
+  }
+  
+  .header h1 {
+    margin: 32px;
+    font-size: 28px; /* Increased font size */
+    color: #4a90e2;
+  }
+  
+  .input-container {
+    display: flex;
+    gap: 12px; /* Increased gap */
+    margin-bottom: 20px;
+  }
+  
+  .input-container input {
+    flex: 1;
+    padding: 12px 16px; /* Increased padding */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 18px; /* Increased font size */
+  }
+  
+  .input-container button {
+    padding: 12px 20px; /* Increased padding */
+    font-size: 18px; /* Increased font size */
+    background: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .task-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px; /* Increased padding */
+    margin-bottom: 12px; /* Increased margin */
+    background: #f0f4f8;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+    font-size: 18px; /* Increased font size */
+  }
+  
+  .task.completed {
+    text-decoration: line-through;
+    color: #888;
+  }
+  
+  .task:hover {
+    background: #e8ecf1;
+  }
+  
+  .task span {
+    flex: 1;
+    cursor: pointer;
+  }
+  
+  .task button {
+    margin-left: 8px;
+    padding: 8px 12px; /* Increased padding */
+    font-size: 16px; /* Increased font size */
+    background: #e74c3c;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .edit-container input {
+    flex: 1;
+    padding: 12px 16px; /* Increased padding */
+    font-size: 18px; /* Increased font size */
+  }
+  
+  .edit-container button {
+    padding: 8px 12px; /* Increased padding */
+    font-size: 16px; /* Increased font size */
+  }
+  
+  .edit-container button:last-child {
+    background: #95a5a6;
+  }
+  
+  .edit-container button:last-child:hover {
+    background: #7f8c8d;
+  }
+  
