@@ -25,7 +25,7 @@ const CardDetail = () => {
         <p className={styles.description}>{product.description}</p>
         <p className={styles.price}>Price: ${product.price}</p>
         <p className={styles.rating}>
-          ⭐ {product.rating.rate} ({product.rating.count} reviews)
+           {product.rating.rate} ({product.rating.count} reviews)
         </p>
         <button className={styles.button} onClick={gotoHomePage}>
           Go Back
