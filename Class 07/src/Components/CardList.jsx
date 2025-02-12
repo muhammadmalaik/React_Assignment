@@ -1,28 +1,3 @@
-// import React from "react";
-// import { Link } from "react-router-dom";
-// import { ProductData } from "../ProductData"; 
-
-// const CardList = () => {
-//   return (
-//     <div>
-//       <h1>Product List</h1>
-//       <div className="card-container">
-//         {ProductData.map((product) => (
-//           <div key={product.id} className="card">
-//             <img src={product.image} alt={product.title} />
-//             <h2>{product.title}</h2>
-//             <p>${product.price}</p>
-//             <Link to={`/card/${product.id}`}>View Details</Link>
-//           </div>
-//         ))}
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default CardList;
-
-
 
 import React from "react";
 import { Link } from "react-router-dom";
